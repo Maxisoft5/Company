@@ -32,6 +32,7 @@ namespace Company
                 LastName = "Ivanov",
                 MiddleName = "Danilovich"
             };
+
             company.Employees.Add(manager);
             company.Employees.Add(foreman);
             company.Employees.Add(worker);
